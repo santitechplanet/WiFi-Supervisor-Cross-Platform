@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+_gen_*.py
+_make_qr_svg.py
+_rewrite_readme_tmp.py
+_qr_tmp.py
+_tmp_gen_wallet_frame.py
+_retirer_qr.py
+apercu_papier.pdf
