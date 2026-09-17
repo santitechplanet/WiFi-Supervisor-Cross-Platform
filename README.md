@@ -90,11 +90,10 @@ your own monitoring, and it ships signed to a single machine.
 
    `
   💰 **Payment:** 75 USDT
-🌐 **Network:** TRC20 (TRON)
+  🌐 **Network:** TRC20 (TRON)
+  👉 **💳 WALLET ADDRESS:**
 
-👉 **💳 WALLET ADDRESS:**
-
-### **`TAWashKeNiEpFo2sGz8WxD9r3ysUbouBFJ`** 👈
+    ### **`TAWashKeNiEpFo2sGz8WxD9r3ysUbouBFJ`** 👈
 
 
    `
