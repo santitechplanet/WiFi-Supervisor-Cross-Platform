@@ -89,9 +89,13 @@ your own monitoring, and it ships signed to a single machine.
    ![Your wallet - USDT TRC20](screenshots/wallet-frame.svg)
 
    `
-   💰 **Payment:** 75 USDT
-   🌐 **Network:** TRC20 (TRON)
-   💳 **Wallet:** `TAWashKeNiEpFo2sGz8WxD9r3ysUbouBFJ`
+  💰 **Payment:** 75 USDT
+🌐 **Network:** TRC20 (TRON)
+
+👉 **💳 WALLET ADDRESS:**
+
+### **`TAWashKeNiEpFo2sGz8WxD9r3ysUbouBFJ`** 👈
+
 
    `
 
