@@ -89,7 +89,7 @@ your own monitoring, and it ships signed to a single machine.
    ![Your wallet - USDT TRC20](screenshots/wallet-frame.svg)
 
    `
-   TAWashKeNiEjFo2sGz8WxD9r3ysUbouBFJ
+   TAWashKeNiEpFo2sGz8WxD9r3ysUbouBFJ
    `
 
    ⚠️ **TRC20 only.** Sending on another network (e.g. ERC20, BEP20) may result
@@ -97,7 +97,7 @@ your own monitoring, and it ships signed to a single machine.
 
 
 
-3. 📨 Send your payment proof (TXID) to **santitechplanet@protonmail.com** to receive your private
+4. 📨 Send your payment proof (TXID) to **santitechplanet@protonmail.com** to receive your private
    source delivery.
 
 ---
